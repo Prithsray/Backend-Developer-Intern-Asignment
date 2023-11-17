@@ -12,7 +12,6 @@ This is a Question Paper Generator application built with React for the frontend
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -37,7 +36,8 @@ This is a Question Paper Generator application built with React for the frontend
         npm install
         cd client
         npm install
-4. Usage
+
+## Usage
 Start the development environment:
 
       ```bash
@@ -47,13 +47,13 @@ This command will concurrently start the Express server and the React app.
 
 5. Access the application in your web browser:
 
-Frontend (React): http://localhost:3000
-Backend (Express): http://localhost:3001
+Frontend (React): http://localhost:3000 <br>
+Backend (Express): http://localhost:3001<br>
 Use the application to add questions and generate question papers.
 
 6. API Endpoints
-GET /questions: Retrieve all stored questions.
-POST /add_question: Add a new question to the store.
+GET /questions: Retrieve all stored questions. <br>
+POST /add_question: Add a new question to the store. <br>
 POST /generate_paper: Generate a question paper based on specified criteria.
 
 7. Contributing
