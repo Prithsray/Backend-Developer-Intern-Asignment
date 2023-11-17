@@ -49,12 +49,13 @@ This command will concurrently start the Express server and the React app.
 
 Frontend (React): http://localhost:3000 <br>
 Backend (Express): http://localhost:3001<br>
+
 Use the application to add questions and generate question papers.
 
-3.API Endpoints
-GET /questions: Retrieve all stored questions. <br>
-POST /add_question: Add a new question to the store. <br>
-POST /generate_paper: Generate a question paper based on specified criteria.
+3.API Endpoints : <br>
+GET /questions  :   Retrieve all stored questions. <br>
+POST /add_question  :   Add a new question to the store. <br>
+POST /generate_paper  :   Generate a question paper based on specified criteria.
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
