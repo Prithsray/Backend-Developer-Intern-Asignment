@@ -1,7 +1,5 @@
-# Backend-Developer-Intern-Asignment
+# Question-Paper-Generator
 A assignment Repo for Backend Development @ Reelo
-
-# Question Paper Generator
 
 This is a Question Paper Generator application built with React for the frontend and Express for the backend. It allows users to store and generate question papers based on specified criteria.
 
